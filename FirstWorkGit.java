@@ -24,3 +24,6 @@ public void methodForMultiplication() {
         int actualResult = calc.myMethodMultiplication(10, 5);
         int expectedResult = 50;
         assertEquals("10 * 5 must be 50", 50, actualResult);
+
+
+        Fix bug test newBrench
